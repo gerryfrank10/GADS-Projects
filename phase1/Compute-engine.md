@@ -18,6 +18,7 @@ The following are the objectives of the lab
     
 
 2. Create a Compute Engine virtual machine using the gcloud command-line interface.
+
     gcloud compute instances create my-vm-2 --machine-type 'n1-standard-1' --image-project 'debian-cloud' --image 'debian-9-stretch-v20200910' --subnet 'default'
 3. Connect Between the two instances 
     - Connect to my-vm-2
