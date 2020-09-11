@@ -137,4 +137,4 @@
 
     - gcloud dataproc clusters create rentals --zone=us-central1-a  --master-machine-type=n1-standard-2 --worker-machine-type=n1-standard-2 --subnet default  --image-version 1.3-debian9
 
-![The Result image ](lab-ml.png "The result completion lab")
+![The Result image ](lab-ml-2.png "The result completion lab")
