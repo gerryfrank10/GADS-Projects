@@ -56,3 +56,4 @@ The following are the objectives of the lab
         curl http://my-vm-1/
 
     
+![The image of lab completion](pic2.png "The completion") 
